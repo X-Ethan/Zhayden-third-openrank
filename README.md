@@ -9,10 +9,10 @@
 ![](https://img.shields.io/badge/Node-v15.14.0-blue)
 [![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green)](README-CN.md)
 
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-01%20205355.png?raw=true)
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055304.jpg?raw=true)
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055351.jpg?raw=true)
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055206.jpg?raw=true)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20213012.png)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20212919.png)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20204328.png)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20203642.png)
 
 The Health Monitor Big Screen is developed as part of the OpenRank competition to evaluate and visualize project health metrics using OpenDigger data.
 
@@ -27,7 +27,7 @@ The project is powered by Vue and Echarts, and aims to help enterprises optimize
 ### Demo video
 
 [https://www.bilibili.com/video/BV1nM6oYKEPR/](https://www.bilibili.com/video/BV1926qYqEPP/?spm_id_from=333.1365.list.card_archive.click&vd_source=003535ecf5788beeb020db928a310ed3)
-+ Access the application online by typing the following URL into your browser:[项目健康度指标可视化平台](https://github.com/X-Ethan/2025-1.1-/blob/main/index.html)
++ Access the application online by typing the following URL into your browser:[项目健康度指标可视化平台](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/%E9%A1%B9%E7%9B%AE%E5%81%A5%E5%BA%B7%E5%BA%A6%E6%8C%87%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0/%E5%81%A5%E5%BA%B7%E5%BA%A6%E6%8C%87%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0.html)
 ### Docker deployment
 
 1. **Install Docker**: Ensure Docker is installed on your system. Follow the instructions in the official documentation: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/).
@@ -51,12 +51,12 @@ The project is powered by Vue and Echarts, and aims to help enterprises optimize
 
 ### Github repository clone
 
-Address: [https://github.com/zxywx0924/openrank](https://github.com/zxywx0924/openrank)
+Address: [https://github.com/X-Ethan/Zhayden-third-openrank](https://github.com/X-Ethan/Zhayden-third-openrank)
 
 + Clone the repository locally:
 
   ```bash
-  git clone https://github.com/zxywx0924/openrank.git
+  git clone https://github.com/X-Ethan/Zhayden-third-openrank.git
   ```
 
 + Install dependencies (Node.js version 15.14.0 is recommended):
@@ -121,17 +121,17 @@ The Github API also allows you to find additional information, such as a map of 
 #### **Dynamic Interactive Queries**
 
 The platform enables interactive querying by project name or author, dynamically updating the visualizations based on user inputs. For example, entering **X-lab2017/open-digger** will display data specific to that repository.
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055317.jpg?raw=true)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20194722.png)
 
 #### **Interactive Charts**
 
 For each chart, when hovering the mouse over it, you can perform operations such as panning, drag-and-zoom, value display, and AI invocation.
 
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20214530.png)
 
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070059.png?raw=true)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20214453.png)
 
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070214.png?raw=true)
+![](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-13%20214714.png)
 
 #### **Comprehensive Insights**
 
