@@ -26,7 +26,7 @@ The project is powered by Vue and Echarts, and aims to help enterprises optimize
 
 ### Demo video
 
-[https://www.bilibili.com/video/BV1nM6oYKEPR/](https://www.bilibili.com/video/BV1926qYqEPP/?spm_id_from=333.1365.list.card_archive.click&vd_source=003535ecf5788beeb020db928a310ed3)
+[ https://b23.tv/9uxECuE]( https://b23.tv/9uxECuE)
 + Access the application online by typing the following URL into your browser:[项目健康度指标可视化平台](https://github.com/X-Ethan/Zhayden-third-openrank/blob/main/%E9%A1%B9%E7%9B%AE%E5%81%A5%E5%BA%B7%E5%BA%A6%E6%8C%87%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0/%E5%81%A5%E5%BA%B7%E5%BA%A6%E6%8C%87%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0.html)
 ### Docker deployment
 
